@@ -7,4 +7,8 @@ public class ListNode {
     public ListNode(int val) {
         value = val;
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello world!");
+    }
 }
