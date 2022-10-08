@@ -2,7 +2,7 @@
 ### 查看当前文件夹下有什么
 ls or ls -al
 ### 进入文件夹
-cd 文件夹名
+cd IdeaProjects/learning/DataStructure/
 ### 添加
 git add .
 
